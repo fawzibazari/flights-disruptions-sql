@@ -18,4 +18,4 @@ So basically what i do here is sql querys to analyze the data from the db
 
 1. add primary key for flights table
 
-2. be more specify with types for columns
+2. be more specific with types for columns
