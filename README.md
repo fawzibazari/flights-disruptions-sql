@@ -11,7 +11,8 @@ So basically what i do here is sql querys to analyze the data from the db
 
 ## Also i did make a schema of the db for clarification 😁:
 
-<img width="963" alt="Capture d’écran 2022-10-01 à 17 13 41" src="https://user-images.githubusercontent.com/67472505/193416075-fff9387e-8816-4f8b-bef3-c5e05ac25d3b.png">
+
+<img width="890" alt="Capture d’écran 2022-10-01 à 17 31 02" src="https://user-images.githubusercontent.com/67472505/193416758-3685b2d1-8ff8-4037-a8ed-f7b09d38e51d.png">
 
 
 ## improvements
